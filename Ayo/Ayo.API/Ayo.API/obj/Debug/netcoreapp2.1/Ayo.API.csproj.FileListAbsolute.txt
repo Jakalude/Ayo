@@ -1,0 +1,14 @@
+C:\Users\Jakalude\Desktop\Ayo\Ayo.API\Ayo.API\bin\Debug\netcoreapp2.1\Ayo.API.deps.json
+C:\Users\Jakalude\Desktop\Ayo\Ayo.API\Ayo.API\bin\Debug\netcoreapp2.1\Ayo.API.runtimeconfig.json
+C:\Users\Jakalude\Desktop\Ayo\Ayo.API\Ayo.API\bin\Debug\netcoreapp2.1\Ayo.API.runtimeconfig.dev.json
+C:\Users\Jakalude\Desktop\Ayo\Ayo.API\Ayo.API\bin\Debug\netcoreapp2.1\Ayo.API.dll
+C:\Users\Jakalude\Desktop\Ayo\Ayo.API\Ayo.API\obj\Debug\netcoreapp2.1\Ayo.API.csproj.CoreCompileInputs.cache
+C:\Users\Jakalude\Desktop\Ayo\Ayo.API\Ayo.API\obj\Debug\netcoreapp2.1\Ayo.API.RazorAssemblyInfo.cache
+C:\Users\Jakalude\Desktop\Ayo\Ayo.API\Ayo.API\obj\Debug\netcoreapp2.1\Ayo.API.RazorAssemblyInfo.cs
+C:\Users\Jakalude\Desktop\Ayo\Ayo.API\Ayo.API\obj\Debug\netcoreapp2.1\Ayo.API.AssemblyInfoInputs.cache
+C:\Users\Jakalude\Desktop\Ayo\Ayo.API\Ayo.API\obj\Debug\netcoreapp2.1\Ayo.API.AssemblyInfo.cs
+C:\Users\Jakalude\Desktop\Ayo\Ayo.API\Ayo.API\obj\Debug\netcoreapp2.1\Ayo.API.RazorTargetAssemblyInfo.cache
+C:\Users\Jakalude\Desktop\Ayo\Ayo.API\Ayo.API\bin\Debug\netcoreapp2.1\Ayo.API.pdb
+C:\Users\Jakalude\Desktop\Ayo\Ayo.API\Ayo.API\obj\Debug\netcoreapp2.1\Ayo.API.dll
+C:\Users\Jakalude\Desktop\Ayo\Ayo.API\Ayo.API\obj\Debug\netcoreapp2.1\Ayo.API.pdb
+C:\Users\Jakalude\Desktop\Ayo\Ayo.API\Ayo.API\obj\Debug\netcoreapp2.1\Ayo.API.csprojAssemblyReference.cache
